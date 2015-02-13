@@ -1,5 +1,5 @@
 ---
-  tags: debugging
+  tags: debugging, bonus
   languages: ruby
   resources: 1
 ---
